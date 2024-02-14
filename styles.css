@@ -1,1 +1,13 @@
 /* your code */
+table{
+	width:600px;
+	border-collapse:collapse;
+}
+#table_head{
+	background-color:lightblue;
+	text-align:left;
+}
+.table_row{
+	background-color:lightgray;
+}
+
